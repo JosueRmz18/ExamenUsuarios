@@ -1,0 +1,30 @@
+1,clave1,Cliente,José,joseperez,perez,jimenez,clave123,Administrador,2023-10-05 08:00:00,2023-10-05 11:02:00,3h 2m,Activo
+2,clave2,Cliente,María,mariaflores,florez,fuentes,clave456,Administrador,2023-10-05 08:30:00,2023-10-05 10:45:00,2h 15m,Activo
+3,clave3,Cliente,Carlos,carloslopez,lopez,gomez,clave789,Promotor,2023-10-05 09:00:00,2023-10-05 09:50:00,50m,Activo
+4,clave4,Cliente,Andrea,andreacastillo,castillo,rodriguez,clave012,Agente,2023-10-05 09:15:00,2023-10-05 11:00:00,1h 45m,Activo
+5,clave5,Cliente,Luis,luisdiaz,diaz,fernandez,clave345,Promotor,2023-10-05 10:00:00,2023-10-05 12:30:00,2h 30m,Activo
+6,clave6,Cliente,Laura,lauralopez,lopez,garcia,clave678,Agente,2023-10-05 10:30:00,2023-10-05 11:15:00,45m,Activo
+7,clave7,Cliente,Juan,juanrodriguez,rodriguez,martinez,clave901,Promotor,2023-10-05 11:00:00,2023-10-05 12:30:00,1h 30m,Activo
+8,clave8,Cliente,Ana,anaperez,parez,gomez,clave234,Agente,2023-10-05 11:45:00,2023-10-05 12:30:00,45m,Activo
+9,clave9,Cliente,Daniel,danielsanchez,sanchez,jimenez,clave567,Promotor,2023-10-05 12:00:00,2023-10-05 14:00:00,2h,Activo
+10,clave10,Cliente,Sofía,sofiagonzalez,gonzalez,perez,clave890,Agente,2023-10-05 12:30:00,2023-10-05 14:15:00,1h 45m,Activo
+11,clave11,Cliente,David,davidlopez,lopez,gomez,clave123,Agente,2023-10-05 13:00:00,2023-10-05 15:00:00,2h,Activo
+12,clave12,Cliente,Marta,martarodriguez,rodriguez,fernandez,clave456,Promotor,2023-10-05 13:30:00,2023-10-05 14:45:00,1h 15m,Activo
+13,clave13,Cliente,Javier,javiersanchez,sanchez,jimenez,clave789,Agente,2023-10-05 14:00:00,2023-10-05 15:30:00,1h 30m,Activo
+14,clave14,Cliente,Elena,elenagonzalez,gonzales,martinez,clave012,Agente,2023-10-05 14:30:00,2023-10-05 15:45:00,1h 15m,Activo
+15,clave15,Cliente,Miguel,miguelrodriguez,rodriguez,perez,clave345,Promotor,2023-10-05 15:00:00,2023-10-05 16:00:00,1h,Activo
+16,clave16,Cliente,Sara,saraperez,perez,fernandez,clave678,Promotor,2023-10-05 15:30:00,2023-10-05 16:30:00,1h,Activo
+17,clave17,Cliente,Pablo,pablogomez,gomez,martinez,clave901,Agente,2023-10-05 16:00:00,2023-10-05 17:00:00,1h,Activo
+18,clave18,Cliente,Raquel,raquellopez,lopez,gomez,clave234,Agente,2023-10-05 16:30:00,2023-10-05 17:30:00,1h,Activo
+19,clave19,Cliente,Diego,diegoperez,perez,jimenez,clave567,Promotor,2023-10-05 17:00:00,2023-10-05 18:00:00,1h,Activo
+20,clave20,Cliente,Carmen,carmengonzalez,gonzalez,rodriguez,clave890,Agente,2023-10-05 17:30:00,2023-10-05 18:30:00,1h,Activo
+21,clave21,Cliente,Manuel,manuelfernandez,fernandez,perez,clave123,Agente,2023-10-05 18:00:00,2023-10-05 19:00:00,1h,Activo
+22,clave22,Cliente,Lucía,luciamartinez,martinez,gomez,clave456,Promotor,2023-10-05 18:30:00,2023-10-05 19:30:00,1h,Activo
+23,clave23,Cliente,Adrián,adrianrodriguez,rodriguez,martinez,clave789,Promotor,2023-10-05 19:00:00,2023-10-05 20:00:00,1h,Activo
+24,clave24,Cliente,Paula,paulagomez,gomez,fernandez,clave012,Agente,2023-10-05 19:30:00,2023-10-05 20:30:00,1h,Activo
+25,clave25,Cliente,Alberto,albertosanchez,sanchez,rodriguez,clave345,Agente,2023-10-05 20:00:00,2023-10-05 21:00:00,1h,Activo
+26,clave26,Cliente,Isabel,isabelperez,perez,gomez,clave678,Promotor,2023-10-05 20:30:00,2023-10-05 21:30:00,1h,Activo
+27,clave27,Cliente,Mario,mariogonzalez,gonzalez,perez,clave901,Agente,2023-10-05 21:00:00,2023-10-05 22:00:00,1h,Activo
+28,clave28,Cliente,Eva,evalopez,lopez,martinez,clave234,Promotor,2023-10-05 21:30:00,2023-10-05 22:30:00,1h,Activo
+29,clave29,Cliente,Roberto,robertolopez,lopez,gomez,clave567,Promotor,2023-10-05 22:00:00,2023-10-05 23:00:00,1h,Activo
+30,clave30,Cliente,Esther,estherperez,perez,jimenez,clave890,Agente,2023-10-05 22:30:00,2023-10-05 23:30:00,1h,Activo
